@@ -1,0 +1,1632 @@
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\VilaItalia.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\VilaItalia.pdb
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\csc.exe
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\csi.exe
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\WebGrease.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\obj\Debug\VilaItalia.csprojAssemblyReference.cache
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\EntityFramework.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\EntityFramework.xml
+C:\Users\jao20\source\repos\VilaItalia\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\VilaItalia.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\VilaItalia.pdb
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\csc.exe
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\csi.exe
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\EntityFramework.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\WebGrease.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\EntityFramework.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\obj\Debug\VilaItalia.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\vilaItalia\VilaItalia\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\VilaItalia.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\VilaItalia.pdb
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\csc.exe
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\csi.exe
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\EntityFramework.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\WebGrease.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\EntityFramework.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\obj\Debug\VilaItalia.csprojAssemblyReference.cache
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.cache
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\Curso\C#\VilaItalia\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\csc.exe
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\csi.exe
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojAssemblyReference.cache
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.cache
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\csc.exe
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\csi.exe
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojAssemblyReference.cache
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.cache
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\JEAN\Desktop\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojAssemblyReference.cache
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.cache
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\csc.exe
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\csi.exe
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
+C:\Users\Tico\source\repos\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovasClasses.resources
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojAssemblyReference.cache
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovasClasses.resources
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.cache
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\Tico\source\repos\PFC-VilaItalia-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovasClasses.resources
+C:\Users\JEAN\Documents\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27052019.resources
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\csc.exe
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\csi.exe
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojAssemblyReference.cache
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovasClasses.resources
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27052019.resources
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.cache
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\bruno\Downloads\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Valorfixobalcao.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\csc.exe
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\csi.exe
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovasClasses.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27052019.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Valorfixobalcao.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.PizzaEmPedido.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.ReceitaPizza.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste3.resources
+C:\Users\aluno\Documents\Bruno\PFCVILAITALIAALTERNATE\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste4.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojAssemblyReference.cache
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovasClasses.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27052019.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Valorfixobalcao.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.PizzaEmPedido.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.ReceitaPizza.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste3.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste4.resources
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.cache
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\Tico\source\repos\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojAssemblyReference.cache
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovasClasses.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27052019.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Valorfixobalcao.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.PizzaEmPedido.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.ReceitaPizza.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste3.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste4.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.cache
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.testin.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\BeginCollectionItem.dll
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NAOAGUENTIOMAIS.resources
+C:\Users\bruno\Downloads\PROJETO UNIFICADO PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.FuncionaPeloAmordeDeus.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\BeginCollectionItem.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojAssemblyReference.cache
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovasClasses.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27052019.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Valorfixobalcao.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.PizzaEmPedido.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.ReceitaPizza.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste3.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste4.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.testin.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NAOAGUENTIOMAIS.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.FuncionaPeloAmordeDeus.resources
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.cache
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\jao20\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\BeginCollectionItem.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovasClasses.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27052019.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Valorfixobalcao.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.PizzaEmPedido.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.ReceitaPizza.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste3.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste4.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.testin.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NAOAGUENTIOMAIS.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.FuncionaPeloAmordeDeus.resources
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\aluno\Documents\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.CampoFuncionandoFiltroContagemFuncionando.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\BeginCollectionItem.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojAssemblyReference.cache
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovasClasses.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27052019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Valorfixobalcao.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.PizzaEmPedido.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.ReceitaPizza.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste3.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste4.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.testin.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NAOAGUENTIOMAIS.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.FuncionaPeloAmordeDeus.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.CampoFuncionandoFiltroContagemFuncionando.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.cache
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.pagamentoIntegrado.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.FormaPagamentoInseridoEmPagamento.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.MetodosPagamentosApenasEmBalcao.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.PagamentoPermitindoNullFormasPedido.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\BeginCollectionItem.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovasClasses.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27052019.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Valorfixobalcao.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.PizzaEmPedido.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.ReceitaPizza.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste3.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste4.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.testin.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NAOAGUENTIOMAIS.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.FuncionaPeloAmordeDeus.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.CampoFuncionandoFiltroContagemFuncionando.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.pagamentoIntegrado.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.FormaPagamentoInseridoEmPagamento.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.MetodosPagamentosApenasEmBalcao.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.PagamentoPermitindoNullFormasPedido.resources
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\PagedList.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Rotativa.dll
+C:\Users\aluno\Documents\Atividades\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\PagedList.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\BeginCollectionItem.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\PagedList.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Rotativa.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\PagedList.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojAssemblyReference.cache
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovasClasses.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27052019.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Valorfixobalcao.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.PizzaEmPedido.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.ReceitaPizza.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste3.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste4.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.testin.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NAOAGUENTIOMAIS.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.FuncionaPeloAmordeDeus.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.CampoFuncionandoFiltroContagemFuncionando.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.pagamentoIntegrado.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.FormaPagamentoInseridoEmPagamento.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.MetodosPagamentosApenasEmBalcao.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.PagamentoPermitindoNullFormasPedido.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.cache
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\Trabalho-Final-DS2-master\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovaRotaDeInicializacao.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll.config
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\VilaItalia.pdb
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.exe.config
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csc.rsp
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.exe.config
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\csi.rsp
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.AppContext.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Console.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Compression.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.IO.Pipes.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Claims.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.ValueTuple.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.exe.config
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\vbc.rsp
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\BeginCollectionItem.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\PagedList.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Rotativa.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\WebGrease.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\EntityFramework.SqlServer.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\PagedList.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Helpers.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Mvc.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Optimization.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.Razor.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Web.WebPages.Razor.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Newtonsoft.Json.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Antlr3.Runtime.pdb
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csprojAssemblyReference.cache
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.InitialCreate.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._22042019.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._23042019.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27042019.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._01052019.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._00520191.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._02052019.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovasClasses.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations._27052019.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Valorfixobalcao.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.PizzaEmPedido.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.ReceitaPizza.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste3.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Teste4.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.testin.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NAOAGUENTIOMAIS.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.FuncionaPeloAmordeDeus.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.CampoFuncionandoFiltroContagemFuncionando.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.pagamentoIntegrado.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.FormaPagamentoInseridoEmPagamento.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.MetodosPagamentosApenasEmBalcao.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.PagamentoPermitindoNullFormasPedido.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovaRotaDeInicializacao.resources
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.GenerateResource.cache
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\bruno\Downloads\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.AdicionandoSessions.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\PagedList.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\Rotativa.dll
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\PagedList.xml
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.NovaRotaDeInicializacao.resources
+C:\Users\jao20\OneDrive\Documentos\JOAO\SENAICurso\C#\PFC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.AdicionandoSessions.resources

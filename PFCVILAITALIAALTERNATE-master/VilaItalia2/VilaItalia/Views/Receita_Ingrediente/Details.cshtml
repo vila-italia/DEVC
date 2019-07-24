@@ -1,0 +1,82 @@
+﻿@model VilaItalia.Models.Receita_Ingrediente
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Receita_Ingrediente</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Sabor Pizza
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ingrediente.Nome)
+        </dd>
+
+        <dt>
+            Ingrediente
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Receita.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecoM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecoM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecoG)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecoG)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecoF)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecoF)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QuantidadeM)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QuantidadeM)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QuantidadeG)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QuantidadeG)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QuantidadeF)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QuantidadeF)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Receita_IngredienteId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

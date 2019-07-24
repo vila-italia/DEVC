@@ -1,0 +1,62 @@
+﻿@model IEnumerable<VilaItalia.Models.Balcao>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+</head>
+<body>
+    <table class="printer-ticket">
+        <thead>
+            <tr>
+                <th class="title" colspan="3">Vila Italia Pizzeria</th>
+            </tr>
+            <tr>
+                <th colspan="3">XX/XX/XXXX - XX:XX:XX</th>
+            </tr>
+            <tr>
+                <th colspan="3">
+                    @ViewBag.NomeCliente <br />
+                    @ViewBag.CPFCliente
+                </th>
+            </tr>
+            <tr>
+                <th class="ttu" colspan="3">
+                    <b>Cupom não fiscal</b>
+                </th>
+            </tr>
+        </thead>
+       @*@ <tbody>
+            <tr class="top">
+                <td colspan="3">Doce de brigadeiro</td>
+            </tr>
+            <tr>
+                <td>R$7,99</td>
+                <td>2.0</td>
+                <td>R$15,98</td>
+            </tr>
+        </tbody>*@
+        <tfoot>
+            <tr class="ttu">
+                <td colspan="2">Total</td>
+                <td align="right">R$@ViewBag.Valortotal</td>
+            </tr>
+            <tr class="sup">
+                <td colspan="3" align="center">
+                    <b>Pedido:</b>
+                </td>
+            </tr>
+            <tr class="sup">
+                <td colspan="3" align="center">
+                   Pizzeria - VilaItalia 
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+</body>
+</html>
+

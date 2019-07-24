@@ -1,0 +1,50 @@
+﻿@model VilaItalia.Models.Pagamento
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Pagamento</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Balcao.BalcaoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Balcao.BalcaoId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Delivery.DeliveryId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Delivery.DeliveryId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Mesa.MesaId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Mesa.MesaId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FormaPagamento)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FormaPagamento)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PagamentoId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

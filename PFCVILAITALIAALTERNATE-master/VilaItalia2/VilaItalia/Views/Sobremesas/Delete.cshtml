@@ -1,0 +1,80 @@
+﻿@model VilaItalia.Models.Sobremesa
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Sobremesa</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SobremesaNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SobremesaNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SobremesaUltimoPreco)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SobremesaUltimoPreco)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SobremesaPrecoMedio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SobremesaPrecoMedio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SobremesaPrecoFixo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SobremesaPrecoFixo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PercentLucro)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PercentLucro)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecoSugerido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecoSugerido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SobremesaAliquota)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SobremesaAliquota)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

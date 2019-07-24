@@ -1,0 +1,63 @@
+﻿@model IEnumerable<VilaItalia.Models.Insumo>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.InsumoNome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InsumoQuantidadeBruto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InsumoQuantidadeProcessado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InsumoQuantidadeTotal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InsumoUltimoPreco)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.InsumoPrecoMedio)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.InsumoNome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InsumoQuantidadeBruto)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InsumoQuantidadeProcessado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InsumoQuantidadeTotal)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InsumoUltimoPreco)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.InsumoPrecoMedio)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.InsumoId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.InsumoId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.InsumoId })
+        </td>
+    </tr>
+}
+
+</table>

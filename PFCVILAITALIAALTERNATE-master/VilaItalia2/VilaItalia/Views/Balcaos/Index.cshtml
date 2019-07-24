@@ -1,0 +1,75 @@
+﻿@model IEnumerable<VilaItalia.Models.Balcao>
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Index</h2>
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Nome cliente
+        </th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <button type="button" id="cliente" onclick="setInterval('tempo()',983);">@Html.DisplayFor(modelItem => item.Cliente.Nome)</button>
+                <form name="form">
+                    <input type="text" name="cronometro" value="00:00:00" />
+                    <br />
+                </form>
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.BalcaoId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.BalcaoId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.BalcaoId })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<script type="text/javascript" language="JavaScript">
+    var segundo = 0 + "0";
+    var minuto = 0 + "0";
+    var hora = 0 + "0";
+
+    function tempo() {
+        if (segundo < 59) {
+            segundo++
+            if (segundo < 10) { segundo = "0" + segundo }
+        } else
+            if (segundo == 59 && minuto < 59) {
+                segundo = 0 + "0";
+                minuto++;
+                if (minuto < 10) { minuto = "0" + minuto }
+                if (minuto == 30) {
+                    document.getElementById('cliente').style.background = 'green';
+                } else if (minuto == 45) {
+                    document.getElementById('cliente').style.background = 'yellow';
+                }
+            }
+        if (minuto == 59 && segundo == 59 && hora < 23) {
+            segundo = 0 + "0";
+            minuto = 0 + "0";
+            hora++;
+
+            if (hora < 10) {
+                hora = "0" + hora;
+                if (hora == 1)
+                    document.getElementById('cliente').style.background = 'red';
+            }
+        } else
+            if (minuto == 59 && segundo == 59 && hora == 23) {
+                segundo = 0 + "0";
+                minuto = 0 + "0";
+                hora = 0 + "0";
+            }
+        form.cronometro.value = hora + ":" + minuto + ":" + segundo;
+    }
+</script>
+

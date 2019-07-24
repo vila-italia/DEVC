@@ -1,0 +1,59 @@
+﻿@model VilaItalia.Models.Receita
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Receita</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecoSugerido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecoSugerido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecoFixo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecoFixo)
+        </dd>
+
+    </dl>
+    <table class="table">
+        <tr>
+            <th>Nome</th>
+            <th>Quantidade</th>
+        </tr>
+        @foreach (var item in ViewBag.Ingredientes)
+        {
+            <tr aling="center">
+                <td>
+                    @item.Ingrediente.Nome
+                </td>
+                <td>
+                    @item.QuantidadeM
+                </td>
+            </tr>
+        }
+    </table>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ReceitaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

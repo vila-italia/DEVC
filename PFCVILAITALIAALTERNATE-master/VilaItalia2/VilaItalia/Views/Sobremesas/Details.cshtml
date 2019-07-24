@@ -1,0 +1,74 @@
+﻿@model VilaItalia.Models.Sobremesa
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Sobremesa</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.SobremesaNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SobremesaNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SobremesaUltimoPreco)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SobremesaUltimoPreco)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SobremesaPrecoMedio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SobremesaPrecoMedio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SobremesaPrecoFixo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SobremesaPrecoFixo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PercentLucro)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PercentLucro)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecoSugerido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecoSugerido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SobremesaAliquota)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SobremesaAliquota)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.SobremesaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

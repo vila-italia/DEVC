@@ -1,0 +1,69 @@
+﻿@model IEnumerable<VilaItalia.Models.Bebida>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BebidaNome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BebidaUltimoPreco)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BebidaPrecoMedio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BebidaPrecoFixo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PercentLucro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PrecoSugerido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BebidaAliquota)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.BebidaNome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BebidaUltimoPreco)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BebidaPrecoMedio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BebidaPrecoFixo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PercentLucro)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PrecoSugerido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.BebidaAliquota)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.BebidaId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.BebidaId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.BebidaId })
+        </td>
+    </tr>
+}
+
+</table>

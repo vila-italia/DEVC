@@ -1,0 +1,51 @@
+﻿@model IEnumerable<VilaItalia.Models.Pizza>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Balcao.BalcaoId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Delivery.DeliveryId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Mesa.MesaId)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Tamanho)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Balcao.BalcaoId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Delivery.DeliveryId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Mesa.MesaId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tamanho)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PizzaId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PizzaId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PizzaId })
+        </td>
+    </tr>
+}
+
+</table>

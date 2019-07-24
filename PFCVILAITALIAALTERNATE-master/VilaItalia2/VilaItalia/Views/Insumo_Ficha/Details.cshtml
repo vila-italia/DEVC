@@ -1,0 +1,50 @@
+﻿@model VilaItalia.Models.Insumo_Ficha
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Insumo_Ficha</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FichaTecnica.FichaNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FichaTecnica.FichaNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Insumo.InsumoNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Insumo.InsumoNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecoInsumo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecoInsumo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QuantidadeInsumo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QuantidadeInsumo)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Insumo_FichaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

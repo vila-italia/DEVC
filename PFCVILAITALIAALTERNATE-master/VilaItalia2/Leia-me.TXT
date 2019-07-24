@@ -1,0 +1,13 @@
+Versão 
+
+-Sem session
+-Sem pesquisa cliente
+
+
+
+__________________________________________
+-Com pagamentos associado
+-Produtos permite
+-com pdf
+-Formularios formatados
+-Icones no navbar

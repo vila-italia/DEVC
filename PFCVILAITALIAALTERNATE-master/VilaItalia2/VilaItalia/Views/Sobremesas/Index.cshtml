@@ -1,0 +1,69 @@
+﻿@model IEnumerable<VilaItalia.Models.Sobremesa>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.SobremesaNome)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SobremesaUltimoPreco)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SobremesaPrecoMedio)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SobremesaPrecoFixo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PercentLucro)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.PrecoSugerido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SobremesaAliquota)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.SobremesaNome)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SobremesaUltimoPreco)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SobremesaPrecoMedio)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SobremesaPrecoFixo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PercentLucro)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.PrecoSugerido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SobremesaAliquota)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.SobremesaId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.SobremesaId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.SobremesaId })
+        </td>
+    </tr>
+}
+
+</table>

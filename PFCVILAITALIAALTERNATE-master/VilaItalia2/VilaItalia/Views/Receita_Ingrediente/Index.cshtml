@@ -1,0 +1,77 @@
+﻿@model IEnumerable<VilaItalia.Models.Receita_Ingrediente>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Sabor da Pizza
+        </th>
+        <th>
+            Igrediente
+        </th>
+        <th>
+            Preço P.Média
+        </th>
+        <th>
+            Preço P.Grande
+        </th>
+        <th>
+            Preço P.Família
+        </th>
+        <th>
+            Quantidade P.Média
+        </th>
+        <th>
+            Quantidade P.Grande
+        </th>
+        <th>
+            Quantidade P.Família
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Receita.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ingrediente.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecoM)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecoG)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecoF)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuantidadeM)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuantidadeG)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.QuantidadeF)
+            </td>
+            <td>
+                @Html.ActionLink("Adicionar", "Adicionar", new { id = item.Receita_IngredienteId }) |
+                @Html.ActionLink("Edit", "Edit", new { id = item.Receita_IngredienteId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.Receita_IngredienteId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Receita_IngredienteId })
+            </td>
+        </tr>
+    }
+
+</table>

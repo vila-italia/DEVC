@@ -1,0 +1,66 @@
+﻿@model VilaItalia.Models.Insumo
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Insumo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.InsumoNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InsumoNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InsumoQuantidadeBruto)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InsumoQuantidadeBruto)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InsumoQuantidadeProcessado)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InsumoQuantidadeProcessado)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InsumoQuantidadeTotal)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InsumoQuantidadeTotal)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InsumoUltimoPreco)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InsumoUltimoPreco)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.InsumoPrecoMedio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.InsumoPrecoMedio)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.InsumoId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,61 @@
+﻿@model VilaItalia.Models.FichaTecnica
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>FichaTecnica</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FichaNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FichaNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecoSugerido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecoSugerido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecoSabor)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecoSabor)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.FichaNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FichaNome)
+        </dd>
+    </dl>
+
+    <table>
+        @foreach (var ft in Model.Insumos_Ficha)
+         {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => ft.Insumo.InsumoNome)
+                </td>
+            </tr>
+         }
+    </table>
+    
+    
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.FichaTecnicaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

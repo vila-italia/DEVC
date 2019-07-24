@@ -1,0 +1,74 @@
+﻿@model VilaItalia.Models.Bebida
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Bebida</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.BebidaNome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BebidaNome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BebidaUltimoPreco)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BebidaUltimoPreco)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BebidaPrecoMedio)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BebidaPrecoMedio)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BebidaPrecoFixo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BebidaPrecoFixo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PercentLucro)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PercentLucro)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecoSugerido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecoSugerido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BebidaAliquota)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BebidaAliquota)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.BebidaId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

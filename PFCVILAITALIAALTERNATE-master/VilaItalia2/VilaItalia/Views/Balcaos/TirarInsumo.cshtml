@@ -1,0 +1,35 @@
+﻿@model VilaItalia.Models.Balcao
+
+@{
+    ViewBag.Title = "TirarInsumo";
+}
+
+<h2>TirarInsumo</h2>
+
+<div class="col-md-5">
+    <ul class="list-group" id="ItemList">
+        <li class="list-group-item-heading list-group-item active">
+            <h4 class="list-group-item-text">Ingredientes</h4>
+        </li>
+        <!--    //(arroba)foreach (var item in Model.FichaTecnica.Insumos_Ficha)
+    {
+
+
+    <li class="list-group-item">
+        <div class="custom-control custom-checkbox">
+            <input type="checkbox" class="custom-control-input" id="Check_(arroba)//item.Insumo_FichaId" />
+            <label class="custom-control-label" for="Check_(arroba)//item.Insumo_FichaId">(arroba)//item.Insumo.InsumoNome</label>
+        </div>
+    </li>
+    }-->
+
+        <li class="list-group-item">
+            <a class="btn btn-success btn-block" _onclick="SaveList()">Atualizar</a>
+        </li>
+    </ul>
+</div>
+
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
