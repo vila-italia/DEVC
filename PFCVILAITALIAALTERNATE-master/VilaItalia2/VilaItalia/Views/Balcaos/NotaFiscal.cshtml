@@ -1,4 +1,4 @@
-﻿@model IEnumerable<VilaItalia.Models.Balcao>
+﻿@model  VilaItalia.Models.Balcao
 
 @{
     Layout = null;
@@ -40,23 +40,34 @@
                 <td>R$15,98</td>
             </tr>
         </tbody>*@
-        <tfoot>
-            <tr class="ttu">
-                <td colspan="2">Total</td>
-                <td align="right">R$@ViewBag.Valortotal</td>
-            </tr>
-            <tr class="sup">
-                <td colspan="3" align="center">
-                    <b>Pedido:</b>
-                </td>
-            </tr>
-            <tr class="sup">
-                <td colspan="3" align="center">
-                   Pizzeria - VilaItalia 
-                </td>
-            </tr>
-        </tfoot>
+    <tfoot>
+        <tr class="ttu">
+            <td colspan="2">Total</td>
+            <td align="right">R$@ViewBag.Valortotal</td>
+        </tr>
+        <tr class="ttu">
+            <td colspan="2">Valor Pago</td>
+            <td align="right">R$@ViewBag.ValorPago</td>
+        </tr>
+        <tr class="ttu">
+            <td colspan="2">Total a pagar</td>
+            <td align="right">R$@ViewBag.ValorAtual</td>
+        </tr>
+        <tr class="sup">
+            <td colspan="3" align="center">
+                <b>Pedido:</b>
+            </td>
+        </tr>
+        <tr class="sup">
+            <td colspan="3" align="center">
+                Pizzeria - VilaItalia
+            </td>
+        </tr>
+    </tfoot>
     </table>
 </body>
 </html>
 
+<div>
+    @Html.ActionLink("Retornar a tela de pagamento", "Index")
+</div>

@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\VilaItalia"
+    "\\VilaItalia",
+    "\\VilaItalia\\Controllers"
   ],
   "SelectedNode": "\\VilaItalia.sln",
   "PreviewInSolutionExplorer": false

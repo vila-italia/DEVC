@@ -17,7 +17,7 @@ namespace VilaItalia.Controllers
         private VilaItaliaContext db = new VilaItaliaContext();
 
 
-        public ActionResult FinalizarPedido()
+      /*  public ActionResult FinalizarPedido()
         {
 
             ViewBag.balcao = new SelectList(db.Balcaos, "BalcaoId", "Cliente.Nome");
@@ -32,38 +32,50 @@ namespace VilaItalia.Controllers
             TempData["balcao"] = balcon;
             //ViewBag.balcao = new SelectList(db.Balcaos, "BalcaoId", "Cliente.Nome");
             return RedirectToAction("NotaFiscal");
-        }
-
-        //NotaFiscal
-        public ActionResult NotaFiscal()
+        }*/
+        //GET: NotaFiscal
+        public ActionResult NotaFiscal(int? Id)
         {
-            {
-                if (TempData["balcao"] != null)
-                {
-                    Balcao balc = TempData["balcao"] as Balcao;
-                    Cliente cliente = db.Clientes.Find(balc.ClienteId);
-                    ViewBag.NomeCliente = cliente.Nome;
-                    ViewBag.CPFCliente = cliente.CPF;
-                    ViewBag.Valortotal = balc.ValorTotal;
-
-
-                    List<Balcao> balcaos = new List<Balcao>();
-                    balcaos.Add(balc);
-                    balcaos.OrderBy(b => b.BalcaoId);
-
-                    var pdf = new ViewAsPdf
-                    {
-                        ViewName = "NotaFiscal",
-                        IsGrayScale = true,
-                        PageSize = Rotativa.Options.Size.A4,
-                        Model = balcaos.ToPagedList(1, balcaos.Count())
-                    };
-                    return pdf;
-                }
-                return null;
-            }
+            Balcao balc = db.Balcaos.Find(Id);
+            Cliente cliente = db.Clientes.Find(balc.ClienteId);
+            ViewBag.NomeCliente = cliente.Nome;
+            ViewBag.CPFCliente = cliente.CPF;
+            ViewBag.Valortotal = balc.ValorTotal;
+            ViewBag.ValorAtual = balc.ValorAtual;
+            TempData["balcao"] = balc;
+            return View();
         }
+        //POST: NotaFiscal
+        [HttpPost]
+        public ActionResult NotaFiscal(int BalcaoId)
+        {
 
+            Balcao balc = null;
+                //Balcao balc = db.Balcaos.Find(id);
+                 if (TempData["balcao"] != null)
+                  {
+                    balc = TempData["balcao"] as Balcao;
+                }
+
+                /*  List<Balcao> balcaos = new List<Balcao>();
+                  balcaos.Add(balc);
+                  balcaos.OrderBy(b => b.BalcaoId);*/
+
+                /*var pdf = new ViewAsPdf
+                 {
+                     ViewName = "NotaFiscal",
+                     IsGrayScale = true,
+                     PageSize = Rotativa.Options.Size.A4,
+                     Model = balcaos.ToPagedList(1, balcaos.Count())
+                 };
+                 return pdf; */
+
+                return RedirectToAction("Create" + "/" + balc.BalcaoId, "Pagamentos");
+            
+
+        }
+            
+        
 
 
         // GET: Balcaos
@@ -149,7 +161,7 @@ namespace VilaItalia.Controllers
             {
                 balcao.Produtos = null;
             }
-
+            balcao.ValorAtual = balcao.ValorTotal;
                 //db.Pizzas.Add(pizza);
                 db.Entry(pizza).State = EntityState.Modified;
                 db.Balcaos.Add(balcao);
@@ -166,8 +178,6 @@ namespace VilaItalia.Controllers
                    return RedirectToAction("Index");
                } */
 
-            ViewBag.ClienteId = new SelectList(db.Clientes, "ClienteId", "Nome", balcao.ClienteId);
-            return View(balcao);
         }
 
         // GET: Balcaos/Edit/5

@@ -23,11 +23,17 @@
         <div class="col-md-10">
             @Html.EditorFor(model => model.Valor, new { htmlAttributes = new { @class = "form-control" } })
             @Html.ValidationMessageFor(model => model.Valor, "", new { @class = "text-danger" })
+
+
+             <p><strong>Valor a pagar:</strong><p>@ViewBag.ValorAtual
+   
+  <br />          
+             <p><strong>Valor Total</strong></p>@ViewBag.ValorTotalBalcao
+    
         </div>
     </div>
 
-    <p><strong>Valor Total:</strong></p>
-    <p>@ViewBag.ValorTotalBalcao</p>
+    
     <input type="hidden" name="PagamentoId" value="@ViewBag.PagamentoId" />
 
     <div class="form-group">

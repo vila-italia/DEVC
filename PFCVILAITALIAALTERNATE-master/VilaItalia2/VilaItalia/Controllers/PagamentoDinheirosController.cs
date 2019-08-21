@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Data;
 using System.Data.Entity;
 using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
+using System.Windows.Forms;
 using VilaItalia.Models;
 
 namespace VilaItalia.Controllers
@@ -39,6 +41,10 @@ namespace VilaItalia.Controllers
         public ActionResult Create(int id)
         {
             ViewBag.PagamentoId = id;
+            Pagamento pagamento = db.Pagamentoes.Find(id);
+            Balcao balcao = db.Balcaos.Find(pagamento.BalcaoId);
+            ViewBag.ValorTotalBalcao = balcao.ValorTotal;
+            ViewBag.ValorAtual = balcao.ValorAtual;
             return View();
         }
 
@@ -47,28 +53,36 @@ namespace VilaItalia.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "PagamentoDinheiroId,Troco,Valor")] PagamentoDinheiro pagamentoDinheiro,int pagamentoId)
+        public ActionResult Create([Bind(Include = "PagamentoDinheiroId,Troco,Valor")] PagamentoDinheiro pagamentoDinheiro,int pagamentoId, CancelEventArgs e)
         {
             if (ModelState.IsValid)
             {
                 Pagamento pagamento = db.Pagamentoes.Find(pagamentoId);
                 Balcao balcao = db.Balcaos.Find(pagamento.BalcaoId);
                 balcao.ValorPago = (float)pagamentoDinheiro.Valor;
-                if (balcao.ValorTotal != 0 && balcao.ValorPago>0)
+                
+                if (balcao.ValorAtual != 0 && balcao.ValorPago>0)
                 {
-                    balcao.ValorTotal -= (float)pagamentoDinheiro.Valor;
-                    ViewBag.ValorTotalBalcao = balcao.ValorTotal;
+                    
+                    balcao.ValorAtual -= (float)pagamentoDinheiro.Valor;
+                   
                     db.Entry(balcao).State = EntityState.Modified;
                     db.SaveChanges();
                 }
-                if (balcao.ValorTotal != 0)
+                if (balcao.ValorAtual!= 0)
                 {
-                    return RedirectToAction("Create" + "/" + balcao.BalcaoId, "Pagamentos");
+                 var result =  MessageBox.Show("O valor pago é menor do que o total a pagar, Continuar para a impressão de nota fiscal mesmo assim?"
+                        , "Alerta",MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+                    if (result == DialogResult.No)
+                    {
+                        return RedirectToAction("Create" + "/" + balcao.BalcaoId, "Pagamentos");
+                    }
+                    
                 }
 
                 db.PagamentoDinheiroes.Add(pagamentoDinheiro);
                 db.SaveChanges();
-                return RedirectToAction("FinalizarPedido","Balcaos");
+                return RedirectToAction("NotaFiscal" + "/" + balcao.BalcaoId, "Balcaos");
             }
 
             return View(pagamentoDinheiro);

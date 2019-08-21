@@ -70,6 +70,7 @@
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Web" />
     <Reference Include="System.Web.Extensions" />
@@ -253,6 +254,10 @@
     <Compile Include="Migrations\201906162018050_[AdicionandoSessions].cs" />
     <Compile Include="Migrations\201906162018050_[AdicionandoSessions].Designer.cs">
       <DependentUpon>201906162018050_[AdicionandoSessions].cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201908201914388_consertando pagamento.cs" />
+    <Compile Include="Migrations\201908201914388_consertando pagamento.Designer.cs">
+      <DependentUpon>201908201914388_consertando pagamento.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Balcao.cs" />
@@ -489,6 +494,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201906162018050_[AdicionandoSessions].resx">
       <DependentUpon>201906162018050_[AdicionandoSessions].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201908201914388_consertando pagamento.resx">
+      <DependentUpon>201908201914388_consertando pagamento.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
