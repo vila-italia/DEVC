@@ -1744,3 +1744,4 @@ C:\Users\bruno\Documents\Bruno_Git\DEVC\PFCVILAITALIAALTERNATE-master\VilaItalia
 C:\Users\bruno\Documents\Bruno_Git\DEVC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
 C:\Users\bruno\Documents\Bruno_Git\DEVC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
 C:\Users\bruno\Documents\Bruno_Git\DEVC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.consertandopagamento.resources
+C:\Users\bruno\Documents\Bruno_Git\DEVC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\bin\System.Linq.Dynamic.dll

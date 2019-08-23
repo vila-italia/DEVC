@@ -1,18 +1,41 @@
-﻿@model VilaItalia.Models.Cliente
-
+﻿@model IEnumerable<VilaItalia.Models.Cliente>
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/dataTables.semanticui.min.css">
+@**<script type="text/javascript" charset="utf8" src="/DataTables/datatables.js"></script>*@
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
 
 <h2>Pesquisa  Cliente</h2>
 
-@using (Html.BeginForm()) 
+@using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
-    
+}
+
 <div class="form-horizontal">
-    <hr />
+
     @Html.ValidationSummary(true, "", new { @class = "text-danger" })
 
+
     <div class="col-md-10">
-        <input type="text" name="PesquisaCliente" value="" placeholder="Digite aqui para pesquisar clientes existentes" onkeyup = "maskIt(this,event,'(###)# ####-####')" />
+
+        <table id="PesquisaCliente" class="ui celled table">
+            <thead>
+                <tr>
+                    <th>Cliente</th>
+                    <th>Telefone</th>
+
+                </tr>
+            </thead>
+            <tfoot>
+                <tr>
+                    <th>Cliente</th>
+                    <th>Telefone</th>
+                </tr>
+            </tfoot>
+        </table>
+        <link href="//cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css" rel="stylesheet" />
+
+        @* <input type="text" name="PesquisaCliente" value="" placeholder="Digite aqui para pesquisar clientes existentes" onkeyup = "maskIt(this,event,'(###)# ####-####')" />*@
     </div>
 
 
@@ -21,9 +44,33 @@
             <input type="submit" value="Pesquisar" class="btn btn-default" />
         </div>
     </div>
-</div>
-}
 
-@section Scripts {
-    @Scripts.Render("~/bundles/jqueryval")
-}
+    }
+
+    @section Scripts {
+        <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+        <script src="https://cdn.datatables.net/1.10.19/js/dataTables.semanticui.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.js"></script>
+        <script type="text/javascript" language="javascript">
+            $(document).ready(function () {
+                $('#PesquisaCliente').DataTable({
+                    "ajax": {
+                        "url": "/Clientes/GetList",
+                        "type": "POST",
+                        "datatype": "json"
+                    },
+                    "columns": [
+                        { "data": "Nome", "name": "Nome" },
+                        { "data": "Telefone", "name": "Telefone" },
+                    ],
+                    "serverSide": "true",
+                    "order":[0,"asc"],
+                    "processing": "true",
+                    "language": {
+                        "processing": "Carregando, por favor aguarde"
+                    }
+                });
+            });
+
+            /**/</script>
+    }
