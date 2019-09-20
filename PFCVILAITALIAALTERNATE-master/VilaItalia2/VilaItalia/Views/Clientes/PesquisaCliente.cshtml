@@ -1,6 +1,9 @@
 ﻿@model IEnumerable<VilaItalia.Models.Cliente>
 <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.css">
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/dataTables.semanticui.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/select/1.3.0/css/select.dataTables.min.css">
+
 @**<script type="text/javascript" charset="utf8" src="/DataTables/datatables.js"></script>*@
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
 
@@ -21,6 +24,7 @@
         <table id="PesquisaCliente" class="ui celled table">
             <thead>
                 <tr>
+                    <th>Id</th>
                     <th>Cliente</th>
                     <th>Telefone</th>
 
@@ -28,6 +32,7 @@
             </thead>
             <tfoot>
                 <tr>
+                    <th>Id</th>
                     <th>Cliente</th>
                     <th>Telefone</th>
                 </tr>
@@ -49,6 +54,8 @@
 
     @section Scripts {
         <script src="//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js"></script>
+        <script src="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css"></script>
+        <script src="https://cdn.datatables.net/select/1.3.0/css/select.dataTables.min.css"></script>
         <script src="https://cdn.datatables.net/1.10.19/js/dataTables.semanticui.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.3.1/semantic.min.js"></script>
         <script type="text/javascript" language="javascript">
@@ -59,18 +66,51 @@
                         "type": "POST",
                         "datatype": "json"
                     },
+                    "columnDefs": [{
+
+                        "data": "null",
+                        "defaultContent": " ",
+                        "orderable": "true",
+                        "className": "select-checkbox",
+                        "targets": 0
+
+                    }],
+                    "select": {
+                        "style": "os",
+                        "selector": "td:first-child"
+                    },
                     "columns": [
+                        { "data": "ClienteId", "name": "ClienteId" },
                         { "data": "Nome", "name": "Nome" },
                         { "data": "Telefone", "name": "Telefone" },
                     ],
                     "serverSide": "true",
-                    "order":[0,"asc"],
+                    "order": [0, "asc"],
                     "processing": "true",
                     "language": {
                         "processing": "Carregando, por favor aguarde"
                     }
+
                 });
+
             });
+    function toggleMarcarTodos(event) {
+     var $tabela = $("#PesquisaCliente");
+        var check = $("#ctl00_ContentPlaceHolder1_rptComunicado_ctl00_ckTodos", $tabela).is(':checked');
+     var $checks = $('.marcar', $tabela);
+
+    // Se a sua coluna tiver ordenacao, tem que prevenir de ordenar ao clicar no checkbox! 
+    event && event.stopPropagation();
+
+    $checks.each(function () {
+        $(this).prop("checked", check);
+   });
+}
+
+// Se houver o evento de paginação ou ordenação ou filtro, é preciso marcar todos novamente.
+$('#PesquisaCliente').on('page.dt, order.dt, search.dt', function () {
+    setTimeout(toggleMarcarTodos, 1);
+});
 
             /**/</script>
     }

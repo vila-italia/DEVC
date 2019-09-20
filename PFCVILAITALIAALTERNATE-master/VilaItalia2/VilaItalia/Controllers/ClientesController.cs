@@ -48,7 +48,7 @@ namespace VilaItalia.Controllers
             clientes = db.Clientes.ToList<Cliente>();
             int totalrows = clientes.Count;
             if(!string.IsNullOrEmpty(searchvalue)){
-                clientes = clientes.Where(x => x.Nome.ToLower().Contains(searchvalue.ToLower())|| x.Telefone.ToLower().Contains(searchvalue.ToString())).ToList(); 
+                clientes = clientes.Where(x => x.ClienteId.ToString().Contains(searchvalue) ||x.Nome.ToLower().Contains(searchvalue.ToLower())|| x.Telefone.ToLower().Contains(searchvalue.ToString())).ToList(); 
         }
             int totalrowsafterfiltering = clientes.Count;
             clientes = clientes.OrderBy(sortColumnName + " " + sortDirection).ToList();
@@ -58,7 +58,7 @@ namespace VilaItalia.Controllers
         //GET: Clientes/PesquisaArea
         public ActionResult PesquisaCliente()
         {
-            return View(db.Clientes.ToList());
+            return View();
         }
         //POST: Clientes/PesquisaArea
         [HttpPost]
