@@ -55,28 +55,20 @@ namespace VilaItalia.Controllers
             clientes = clientes.Skip(start).Take(length).ToList();
             return Json(new { data = clientes, draw = Request["draw"], recordsTotal = totalrows, recordsFiltered = totalrowsafterfiltering },JsonRequestBehavior.AllowGet );
         }
-        //GET: Clientes/PesquisaArea
-        public ActionResult PesquisaCliente()
+        //GET: Clientes/ExibiçãoClientes 
+        public ActionResult ExibicaoCliente()
         {
             return View();
         }
-        //POST: Clientes/PesquisaArea
-        [HttpPost]
-        public ActionResult PesquisaCliente(string PesquisaCliente)
+      public ActionResult PesquisaCliente()
         {
-            if (ModelState.IsValid)
-            {
-
-                var pesquisado = db.Clientes.Where(a => a.Celular.Contains(PesquisaCliente)).FirstOrDefault();
-
-                if(pesquisado != null)
-                {
-                    return RedirectToAction("Create", "Balcaos");
-                }
-
-                return RedirectToAction("Create");
-            }
-            return View(db.Clientes.ToList());
+            return View();
+        }
+      public JsonResult Pesquisar(string term)
+        {
+            var resultado = db.Clientes.Where(x => x.Nome.Contains(term))
+                .Select(x => x.Nome).Take(5).ToList();
+            return Json(resultado, JsonRequestBehavior.AllowGet);
         }
 
         // GET: Clientes/Create

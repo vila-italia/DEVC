@@ -6,6 +6,7 @@
     <title></title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
+    <link href="~/Content/themes/base/all.css" rel="stylesheet"/>
 </head>
 
 <body>
@@ -35,7 +36,7 @@
                             <a class="dropdown-item" @Html.ActionLink("Cadastrar Funcionário", "Create", "Funcionarios")</a>
                             <a class="dropdown-item" @Html.ActionLink("Cadastrar Motoboy", "Create", "Motoboys")</a>
                             <a class="dropdown-item" @Html.ActionLink("Cadastrar Produto", "Create", "Produtos")</a>
-                            
+                            <a class="dropdown-item" @Html.ActionLink("Exibição de clientes cadastrados", "ExibicaoCliente", "Clientes")</a>
                             <div class="dropdown-divider"></div>
                         </div>
                     </div>
