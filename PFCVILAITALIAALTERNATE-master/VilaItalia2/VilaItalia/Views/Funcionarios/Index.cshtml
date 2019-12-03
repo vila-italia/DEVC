@@ -1,5 +1,5 @@
 ﻿@model IEnumerable<VilaItalia.Models.Funcionario>
-
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 @{
     ViewBag.Title = "Index";
 }
@@ -62,62 +62,77 @@
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.Nome)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Telefone)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Celular)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.CPF)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Dia_Aniversario)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Mes_Aniversario)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Ano_Aniversario)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Email)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.CEP)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Bairro)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Rua)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Cidade)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Complemento)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Referencia)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Observacao)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Função)
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.FuncionarioId }) |
-            @Html.ActionLink("Details", "Details", new { id=item.FuncionarioId }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.FuncionarioId })
-        </td>
-    </tr>
-}
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Celular)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CPF)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Dia_Aniversario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mes_Aniversario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Ano_Aniversario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CEP)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Bairro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Rua)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Complemento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Referencia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Observacao)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Função)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.FuncionarioId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.FuncionarioId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.FuncionarioId })
+            </td>
+        </tr>
+    }
 
 </table>
+
+@Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
+
+@Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>

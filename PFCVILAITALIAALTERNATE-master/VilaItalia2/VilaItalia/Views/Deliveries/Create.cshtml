@@ -1,48 +1,69 @@
 ﻿@model VilaItalia.Models.Delivery
 
-@{
-    ViewBag.Title = "Create";
-}
-
-<h2>Create</h2>
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 
 
-@using (Html.BeginForm()) 
+
+<select multiple class="form-control">
+    <option>Amoos</option>
+    <option>Jhon</option>
+    <option>Ghori</option>
+</select>
+@using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
-    
-    <div class="form-horizontal">
-        <h4>Delivery</h4>
-        <hr />
-        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-        <div class="form-group">
-            @Html.LabelFor(model => model.ClienteId, "ClienteId", htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.DropDownList("ClienteId", null, htmlAttributes: new { @class = "form-control" })
-                @Html.ValidationMessageFor(model => model.ClienteId, "", new { @class = "text-danger" })
-            </div>
-        </div>
 
-        <div class="form-group">
-            @Html.LabelFor(model => model.MotoboyId, "MotoboyId", htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.DropDownList("MotoboyId", null, htmlAttributes: new { @class = "form-control" })
-                @Html.ValidationMessageFor(model => model.MotoboyId, "", new { @class = "text-danger" })
-            </div>
+<div class="form-horizontal">
+    <h4>Delivery</h4>
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.LabelFor(model => model.ClienteId, "ClienteId", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("ClienteId", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.ClienteId, "", new { @class = "text-danger" })
         </div>
-
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.MotoboyId, "MotoboyId", htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DropDownList("MotoboyId", null, htmlAttributes: new { @class = "form-control" })
+            @Html.ValidationMessageFor(model => model.MotoboyId, "", new { @class = "text-danger" })
+        </div>
+    </div>
+                <div class="col-lg-offset-2">
+                    <p><strong>Produtos</strong></p>
+                    @Html.DropDownList("ProdutosId", (MultiSelectList)ViewBag.ProdutosId, new { multiple = "multiple" })
+                </div>
+                <div class="col-lg-offset-2">
+                    <p><strong>Pizzas</strong></p>
+                    @Html.DropDownList("ReceitasId", (MultiSelectList)ViewBag.ReceitasId, new { multiple = "multiple" })
+                </div>
+            </div>
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
                 <input type="submit" value="Create" class="btn btn-default" />
             </div>
         </div>
+   
+    }
+    <div>
+        @Html.ActionLink("Back to List", "Index")
     </div>
-}
 
-<div>
-    @Html.ActionLink("Back to List", "Index")
-</div>
 
-@section Scripts {
-    @Scripts.Render("~/bundles/jqueryval")
-}
+    @Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
+
+    @Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+    <!-- Bootstrap core JavaScript-->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Core plugin JavaScript-->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+    <!-- Custom scripts for all pages-->
+    <script src="js/sb-admin-2.min.js"></script>
+
+

@@ -1,12 +1,10 @@
 ﻿@model VilaItalia.Models.Receita_Ingrediente
-
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 @{
     ViewBag.Title = "Delete";
 }
-
 <h2>Delete</h2>
-
-<h3>Are you sure you want to delete this?</h3>
+<h3>Você tem certeza que gostaria de deletar?</h3>
 <div>
     <h4>Receita_Ingrediente</h4>
     <hr />
@@ -14,69 +12,52 @@
         <dt>
             @Html.DisplayNameFor(model => model.Ingrediente.Nome)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Ingrediente.Nome)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Receita.Nome)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Receita.Nome)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.PrecoM)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.PrecoM)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.PrecoG)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.PrecoG)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.PrecoF)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.PrecoF)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.QuantidadeM)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.QuantidadeM)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.QuantidadeG)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.QuantidadeG)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.QuantidadeF)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.QuantidadeF)
         </dd>
-
     </dl>
-
     @using (Html.BeginForm())
     {
         @Html.AntiForgeryToken()
@@ -87,3 +68,17 @@
         </div>
     }
 </div>
+
+@Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
+
+@Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>

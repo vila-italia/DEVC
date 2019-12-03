@@ -64,6 +64,11 @@ namespace VilaItalia.Controllers
         {
             return View();
         }
+      [HttpPost]
+      public ActionResult PesquisaCliente(Cliente pesquisado)
+        {
+            return RedirectToAction("Create", "Balcaos", new { Cliente = pesquisado, area = "area" });
+        }
       public JsonResult Pesquisar(string term)
         {
             var resultado = db.Clientes.Where(x => x.Nome.Contains(term))

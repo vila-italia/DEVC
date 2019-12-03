@@ -1,22 +1,19 @@
 ﻿@model VilaItalia.Models.Motoboy
-
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 @{
     ViewBag.Title = "Edit";
 }
-
 <h2>Edit</h2>
-
 
 @using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
-    
+
     <div class="form-horizontal">
         <h4>Motoboy</h4>
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         @Html.HiddenFor(model => model.MotoboyId)
-
         <div class="form-group">
             @Html.LabelFor(model => model.Nome, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -24,7 +21,6 @@
                 @Html.ValidationMessageFor(model => model.Nome, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.Telefone, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -32,7 +28,6 @@
                 @Html.ValidationMessageFor(model => model.Telefone, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.Celular, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -40,7 +35,6 @@
                 @Html.ValidationMessageFor(model => model.Celular, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.CPF, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -48,7 +42,6 @@
                 @Html.ValidationMessageFor(model => model.CPF, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.Dia_Aniversario, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -56,7 +49,6 @@
                 @Html.ValidationMessageFor(model => model.Dia_Aniversario, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.Mes_Aniversario, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -64,7 +56,6 @@
                 @Html.ValidationMessageFor(model => model.Mes_Aniversario, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.Ano_Aniversario, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -72,7 +63,6 @@
                 @Html.ValidationMessageFor(model => model.Ano_Aniversario, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -80,7 +70,6 @@
                 @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.CEP, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -88,7 +77,6 @@
                 @Html.ValidationMessageFor(model => model.CEP, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.Complemento, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -96,7 +84,6 @@
                 @Html.ValidationMessageFor(model => model.Complemento, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.Bairro, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -104,7 +91,6 @@
                 @Html.ValidationMessageFor(model => model.Bairro, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.Rua, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -112,7 +98,6 @@
                 @Html.ValidationMessageFor(model => model.Rua, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.Cidade, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -120,7 +105,6 @@
                 @Html.ValidationMessageFor(model => model.Cidade, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.Referencia, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -128,7 +112,6 @@
                 @Html.ValidationMessageFor(model => model.Referencia, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.Observacao, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -136,7 +119,6 @@
                 @Html.ValidationMessageFor(model => model.Observacao, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             @Html.LabelFor(model => model.numerCnh, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -144,7 +126,6 @@
                 @Html.ValidationMessageFor(model => model.numerCnh, "", new { @class = "text-danger" })
             </div>
         </div>
-
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
                 <input type="submit" value="Save" class="btn btn-default" />
@@ -152,11 +133,23 @@
         </div>
     </div>
 }
-
 <div>
     @Html.ActionLink("Back to List", "Index")
 </div>
-
 @section Scripts {
     @Scripts.Render("~/bundles/jqueryval")
 }
+
+@Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
+
+@Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>

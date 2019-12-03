@@ -1,46 +1,51 @@
 ﻿@model VilaItalia.Models.PagamentoDinheiro
 
-<h2>Pagamento Dinheiro</h2>
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 
-@using (Html.BeginForm()) 
+<script src="js/sb-admin-2.min.js"></script>
+@using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
-    
-<div class="form-horizontal">
-    
-    <hr />
-    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-    @*<div class="form-group">
-        @Html.LabelFor(model => model.Troco, htmlAttributes: new { @class = "control-label col-md-2" })
-        <div class="col-md-10">
-            @Html.EditorFor(model => model.Troco, new { htmlAttributes = new { @class = "form-control" } })
-            @Html.ValidationMessageFor(model => model.Troco, "", new { @class = "text-danger" })
+
+    <div class="form-horizontal">
+
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @*<div class="form-group">
+                @Html.LabelFor(model => model.Troco, htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    @Html.EditorFor(model => model.Troco, new { htmlAttributes = new { @class = "form-control" } })
+                    @Html.ValidationMessageFor(model => model.Troco, "", new { @class = "text-danger" })
+                </div>
+            </div>*@
+        <div class="form-group">
+            @Html.LabelFor(model => model.Valor, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Valor, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Valor, "", new { @class = "text-danger" })
+            </div>
         </div>
-    </div>*@
-
-    <div class="form-group">
-        @Html.LabelFor(model => model.Valor, htmlAttributes: new { @class = "control-label col-md-2" })
-        <div class="col-md-10">
-            @Html.EditorFor(model => model.Valor, new { htmlAttributes = new { @class = "form-control" } })
-            @Html.ValidationMessageFor(model => model.Valor, "", new { @class = "text-danger" })
-
-
-             <p><strong>Valor a pagar:</strong><p>@ViewBag.ValorAtual
-   
-  <br />          
-             <p><strong>Valor Total</strong></p>@ViewBag.ValorTotalBalcao
-    
-        </div>
-    </div>
-
-    
-    <input type="hidden" name="PagamentoId" value="@ViewBag.PagamentoId" />
-
-    <div class="form-group">
-        <div class="col-md-offset-2 col-md-10">
-            <input type="submit" value="Comprar" class="btn btn-default" />
+        <p><strong>Valor Total:</strong></p>
+        <p>@ViewBag.ValorTotalBalcao</p>
+        <input type="hidden" name="PagamentoId" value="@ViewBag.PagamentoId" />
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Comprar" class="btn btn-default" />
+            </div>
         </div>
     </div>
-</div>
 }
+@Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
 
+@Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>

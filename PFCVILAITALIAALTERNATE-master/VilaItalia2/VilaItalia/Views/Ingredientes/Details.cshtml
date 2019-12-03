@@ -1,11 +1,9 @@
 ﻿@model VilaItalia.Models.Ingrediente
-
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 @{
     ViewBag.Title = "Details";
 }
-
 <h2>Details</h2>
-
 <div>
     <h4>Ingrediente</h4>
     <hr />
@@ -13,62 +11,62 @@
         <dt>
             @Html.DisplayNameFor(model => model.Nome)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Nome)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Quantidade)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Quantidade)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Processado)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Processado)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Total)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Total)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.UltimoPreco)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.UltimoPreco)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.PrecoMedio)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.PrecoMedio)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Medida)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Medida)
         </dd>
-
     </dl>
 </div>
 <p>
     @Html.ActionLink("Edit", "Edit", new { id = Model.IngredienteId }) |
     @Html.ActionLink("Back to List", "Index")
 </p>
+
+@Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
+
+@Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>

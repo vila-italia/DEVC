@@ -1,11 +1,9 @@
 ﻿@model IEnumerable<VilaItalia.Models.Produto>
-
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 @{
     ViewBag.Title = "Index";
 }
-
 <h2>Index</h2>
-
 <p>
     @Html.ActionLink("Create New", "Create")
 </p>
@@ -52,54 +50,67 @@
         </th>
         <th></th>
     </tr>
-
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.Balcao.BalcaoId)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Delivery.DeliveryId)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Mesa.MesaId)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Nome)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Quantidade)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.PrecoCompra)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.PrecoVenda)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.PrecoMedio)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.PercentLucro)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.PrecoSugerido)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Aliquota)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Tipo)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.Medida)
-        </td>
-        <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.ProdutoId }) |
-            @Html.ActionLink("Details", "Details", new { id=item.ProdutoId }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.ProdutoId })
-        </td>
-    </tr>
-}
-
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Balcao.BalcaoId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Delivery.DeliveryId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mesa.MesaId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantidade)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecoCompra)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecoVenda)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecoMedio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PercentLucro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecoSugerido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Aliquota)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Tipo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Medida)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ProdutoId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ProdutoId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ProdutoId })
+            </td>
+        </tr>
+    }
 </table>
+
+@Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
+
+@Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>

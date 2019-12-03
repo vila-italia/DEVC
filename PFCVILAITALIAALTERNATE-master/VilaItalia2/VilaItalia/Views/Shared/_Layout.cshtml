@@ -1,123 +1,102 @@
 ﻿<!DOCTYPE html>
-<html>
+<html lang="pt-br">
+
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title></title>
-    @Styles.Render("~/Content/css")
-    @Scripts.Render("~/bundles/modernizr")
-    <link href="~/Content/themes/base/all.css" rel="stylesheet"/>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+
+
+    <!-- Custom fonts for this template-->
+    <link href="~/Content/Sb-Admin/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+
+    <!-- Custom styles for this template-->
+    <link href="~/Content/Sb-Admin/css/sb-admin-2.min.css" rel="stylesheet">
+
 </head>
-
-<body>
-    <div class="navbar navbar-fixed-top" id="menu">
-        <div class="container">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <div class="row">
-                    <div class="col-lg-2" id="logo"><img src="~/Content/Images/logo-vilaItalia.png" width="70px" alt=""></div>
-
-                </div>
-                <a href="~/Clientes/PesquisaCliente" class="col-md-3" id="Balcao"><img src="~/Content/Images/IconBalcao.png" style="width:50px" /> </a>
-                <a href="~/Clientes/PesquisaCliente" class="col-md-3" id="Delivery"> <img src="~/Content/Images/IconDelivey.png" style="width:50px" /></a>
-                <div class="~/Clientes/PesquisaCliente" id="Mesa"> <img src="~/Content/Images/IconMesa.png" style="width:50px" /></div>
- 
-            </div>
-            <div class="navbar-collapse collapse">
-                    <div id="engrenagem" class="btn-group">
-                        <div class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            <img src="~/Content/Images/engine-153649_640.png" style="width:50px"  />
-                        </div>
-                        <div class="dropdown-menu">
-                            <a class="dropdown-item" @Html.ActionLink("Cadastrar Funcionário", "Create", "Funcionarios")</a>
-                            <a class="dropdown-item" @Html.ActionLink("Cadastrar Motoboy", "Create", "Motoboys")</a>
-                            <a class="dropdown-item" @Html.ActionLink("Cadastrar Produto", "Create", "Produtos")</a>
-                            <a class="dropdown-item" @Html.ActionLink("Exibição de clientes cadastrados", "ExibicaoCliente", "Clientes")</a>
-                            <div class="dropdown-divider"></div>
-                        </div>
-                    </div>
-                
-            </div>
         </div>
+@RenderBody()
     </div>
-    <div class="container body-content">
-        @RenderBody()
-        <hr />
-        
-    </div>
-    @Scripts.Render("~/bundles/jquery")
-    @Scripts.Render("~/bundles/bootstrap")
-    @RenderSection("scripts", required: false)
-</body>
-</html>
+
+<!-- Bootstrap core JavaScript-->
+<script src="~/Content/Sb-Admin/vendor/jquery/jquery.min.js"></script>
+<script src="~/Content/Sb-Admin/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="~/Content/Sb-Admin/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="~/Content/Sb-Admin/js/sb-admin-2.min.js"></script>
+
 <script type="text/javascript">
 
-        function limpa_formulário_cep() {
-            //Limpa valores do formulário de cep.
-            document.getElementById('Rua').value = ("");
-            document.getElementById('Bairro').value = ("");
-            document.getElementById('Cidade').value = ("");
-        }
+    function limpa_formulário_cep() {
+        //Limpa valores do formulário de cep.
+        document.getElementById('Rua').value = ("");
+        document.getElementById('Bairro').value = ("");
+        document.getElementById('Cidade').value = ("");
+    }
 
-        function meu_callback(conteudo) {
-            if (!("erro" in conteudo)) {
-                //Atualiza os campos com os valores.
-                document.getElementById('Rua').value = (conteudo.logradouro);
-                document.getElementById('Bairro').value = (conteudo.bairro);
-                document.getElementById('Cidade').value = (conteudo.localidade);
+    function meu_callback(conteudo) {
+        if (!("erro" in conteudo)) {
+            //Atualiza os campos com os valores.
+            document.getElementById('Rua').value = (conteudo.logradouro);
+            document.getElementById('Bairro').value = (conteudo.bairro);
+            document.getElementById('Cidade').value = (conteudo.localidade);
+
+        } //end if.
+        else {
+            //CEP não Encontrado.
+            limpa_formulário_cep();
+            alert("CEP não encontrado.");
+        }
+    }
+
+    function pesquisacep(valor) {
+
+        //Nova variável "cep" somente com dígitos.
+        var cep = valor.replace(/\D/g, '');
+
+        //Verifica se campo cep possui valor informado.
+        if (cep != "") {
+
+            //Expressão regular para validar o CEP.
+            var validacep = /^[0-9]{8}$/;
+
+            //Valida o formato do CEP.
+            if (validacep.test(cep)) {
+
+                //Preenche os campos com "..." enquanto consulta webservice.
+                document.getElementById('Rua').value = "...";
+                document.getElementById('Bairro').value = "...";
+                document.getElementById('Cidade').value = "...";
+
+                //Cria um elemento javascript.
+                var script = document.createElement('script');
+
+                //Sincroniza com o callback.
+                script.src = 'https://viacep.com.br/ws/' + cep + '/json/?callback=meu_callback';
+
+                //Insere script no documento e carrega o conteúdo.
+                document.body.appendChild(script);
 
             } //end if.
             else {
-                //CEP não Encontrado.
+                //cep é inválido.
                 limpa_formulário_cep();
-                alert("CEP não encontrado.");
+                alert("Formato de CEP inválido.");
             }
+        } //end if.
+        else {
+            //cep sem valor, limpa formulário.
+            limpa_formulário_cep();
         }
-
-        function pesquisacep(valor) {
-
-            //Nova variável "cep" somente com dígitos.
-            var cep = valor.replace(/\D/g, '');
-
-            //Verifica se campo cep possui valor informado.
-            if (cep != "") {
-
-                //Expressão regular para validar o CEP.
-                var validacep = /^[0-9]{8}$/;
-
-                //Valida o formato do CEP.
-                if (validacep.test(cep)) {
-
-                    //Preenche os campos com "..." enquanto consulta webservice.
-                    document.getElementById('Rua').value = "...";
-                    document.getElementById('Bairro').value = "...";
-                    document.getElementById('Cidade').value = "...";
-
-                    //Cria um elemento javascript.
-                    var script = document.createElement('script');
-
-                    //Sincroniza com o callback.
-                    script.src = 'https://viacep.com.br/ws/' + cep + '/json/?callback=meu_callback';
-
-                    //Insere script no documento e carrega o conteúdo.
-                    document.body.appendChild(script);
-
-                } //end if.
-                else {
-                    //cep é inválido.
-                    limpa_formulário_cep();
-                    alert("Formato de CEP inválido.");
-                }
-            } //end if.
-            else {
-                //cep sem valor, limpa formulário.
-                limpa_formulário_cep();
-            }
-        };
+    };
 
 </script>
 <script type="text/javascript">
@@ -147,9 +126,9 @@
                 type: "POST",
                 datatype: "action",
                 data: { ItemList: commaseparatedIds }
-                   success: function (response) {
-                       alert("teste");
-                   }
+                       success: function (response) {
+                    alert("teste");
+                }
             })
         }
     }
@@ -193,7 +172,6 @@
         alert("cpf válido");
     }
 </script>
-
 <script type="text/javascript">
 
     function limpa_formulário_cep() {
@@ -327,3 +305,8 @@
 
     };
 </script>
+
+</body>
+
+</html>
+

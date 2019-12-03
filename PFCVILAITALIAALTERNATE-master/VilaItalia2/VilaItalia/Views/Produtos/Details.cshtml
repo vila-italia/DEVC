@@ -1,11 +1,9 @@
 ﻿@model VilaItalia.Models.Produto
-
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 @{
     ViewBag.Title = "Details";
 }
-
 <h2>Details</h2>
-
 <div>
     <h4>Produto</h4>
     <hr />
@@ -13,110 +11,98 @@
         <dt>
             @Html.DisplayNameFor(model => model.Balcao.BalcaoId)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Balcao.BalcaoId)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Delivery.DeliveryId)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Delivery.DeliveryId)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Mesa.MesaId)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Mesa.MesaId)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Nome)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Nome)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Quantidade)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Quantidade)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.PrecoCompra)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.PrecoCompra)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.PrecoVenda)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.PrecoVenda)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.PrecoMedio)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.PrecoMedio)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.PercentLucro)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.PercentLucro)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.PrecoSugerido)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.PrecoSugerido)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Aliquota)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Aliquota)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Tipo)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Tipo)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Medida)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Medida)
         </dd>
-
     </dl>
 </div>
 <p>
     @Html.ActionLink("Edit", "Edit", new { id = Model.ProdutoId }) |
     @Html.ActionLink("Back to List", "Index")
 </p>
+
+@Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
+
+@Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>

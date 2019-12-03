@@ -150,6 +150,7 @@
     <Compile Include="Controllers\DeliveriesController.cs" />
     <Compile Include="Controllers\FuncionariosController.cs" />
     <Compile Include="Controllers\IngredientesController.cs" />
+    <Compile Include="Controllers\MesaAdicionadaController.cs" />
     <Compile Include="Controllers\MesasController.cs" />
     <Compile Include="Controllers\MotoboysController.cs" />
     <Compile Include="Controllers\PagamentoCartaoDebitosController.cs" />
@@ -262,10 +263,27 @@
     <Compile Include="Migrations\201908201914388_consertando pagamento.Designer.cs">
       <DependentUpon>201908201914388_consertando pagamento.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201912031939435_Addmesa.cs" />
+    <Compile Include="Migrations\201912031939435_Addmesa.Designer.cs">
+      <DependentUpon>201912031939435_Addmesa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912032008224_Addmesa2.cs" />
+    <Compile Include="Migrations\201912032008224_Addmesa2.Designer.cs">
+      <DependentUpon>201912032008224_Addmesa2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912032032462_Addmesa3.cs" />
+    <Compile Include="Migrations\201912032032462_Addmesa3.Designer.cs">
+      <DependentUpon>201912032032462_Addmesa3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201912032237414_Delivery.cs" />
+    <Compile Include="Migrations\201912032237414_Delivery.Designer.cs">
+      <DependentUpon>201912032237414_Delivery.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Balcao.cs" />
     <Compile Include="Models\Cliente.cs" />
     <Compile Include="Models\Delivery.cs" />
+    <Compile Include="Models\MesaAdicionada.cs" />
     <Compile Include="Models\PagamentoDinheiro.cs" />
     <Compile Include="Models\Estoque.cs" />
     <Compile Include="Models\Extra.cs" />
@@ -777,6 +795,12 @@
     <Content Include="Views\Funcionarios\Login.cshtml" />
     <Content Include="Views\Clientes\ExibicaoCliente.cshtml" />
     <Content Include="Views\Clientes\PesquisaCliente.cshtml" />
+    <Content Include="Views\MesaAdicionada\Create.cshtml" />
+    <Content Include="Views\MesaAdicionada\Delete.cshtml" />
+    <Content Include="Views\MesaAdicionada\Details.cshtml" />
+    <Content Include="Views\MesaAdicionada\Edit.cshtml" />
+    <Content Include="Views\MesaAdicionada\Index.cshtml" />
+    <Content Include="Views\MesaAdicionada\MesasOcupadas.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -869,6 +893,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201908201914388_consertando pagamento.resx">
       <DependentUpon>201908201914388_consertando pagamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912031939435_Addmesa.resx">
+      <DependentUpon>201912031939435_Addmesa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912032008224_Addmesa2.resx">
+      <DependentUpon>201912032008224_Addmesa2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912032032462_Addmesa3.resx">
+      <DependentUpon>201912032032462_Addmesa3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201912032237414_Delivery.resx">
+      <DependentUpon>201912032237414_Delivery.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

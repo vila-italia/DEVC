@@ -1,11 +1,9 @@
 ﻿@model VilaItalia.Models.Receita_Ingrediente
-
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 @{
     ViewBag.Title = "Adicionar";
 }
-
 <h2>Adicionar</h2>
-
 @using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
@@ -15,14 +13,12 @@
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         @Html.HiddenFor(model => model.Receita_IngredienteId)
-
         <div class="form-group">
             <label class="control-label col-md-2"> Quantidade Pizza Media </label>
             <div class="col-md-10">
                 <input type="text" name="quantidadeM" class="form-control" />
             </div>
         </div>
-
         <div class="form-group">
             <label class="control-label col-md-2"> Quantidade Pizza Grande </label>
             <div class="col-md-10">
@@ -54,17 +50,26 @@
             </div>
         </div>
         <div class="form-group">
-            <div class="col-md-offset-2 col-md-10">
+            <div class="col-md-2 col-md-10">
                 <input type="submit" value="Save" class="btn btn-default" />
             </div>
         </div>
     </div>
 }
-
 <div>
     @Html.ActionLink("Back to List", "Index")
 </div>
 
-@section Scripts {
-    @Scripts.Render("~/bundles/jqueryval")
-}
+@Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
+
+@Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>

@@ -1,11 +1,9 @@
 ﻿@model VilaItalia.Models.Motoboy
-
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 @{
     ViewBag.Title = "Details";
 }
-
 <h2>Details</h2>
-
 <div>
     <h4>Motoboy</h4>
     <hr />
@@ -13,134 +11,116 @@
         <dt>
             @Html.DisplayNameFor(model => model.Nome)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Nome)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Telefone)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Telefone)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Celular)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Celular)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.CPF)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.CPF)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Dia_Aniversario)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Dia_Aniversario)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Mes_Aniversario)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Mes_Aniversario)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Ano_Aniversario)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Ano_Aniversario)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Email)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Email)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.CEP)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.CEP)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Complemento)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Complemento)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Bairro)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Bairro)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Rua)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Rua)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Cidade)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Cidade)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Referencia)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Referencia)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.Observacao)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Observacao)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.numerCnh)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.numerCnh)
         </dd>
-
     </dl>
 </div>
 <p>
     @Html.ActionLink("Edit", "Edit", new { id = Model.MotoboyId }) |
     @Html.ActionLink("Back to List", "Index")
 </p>
+
+@Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
+
+@Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>

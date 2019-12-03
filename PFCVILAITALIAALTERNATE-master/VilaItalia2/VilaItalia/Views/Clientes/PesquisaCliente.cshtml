@@ -7,9 +7,17 @@
 <h2>PesquisaCliente</h2>
 
 <label for="pesquisa">Insira aqui o nome do cliente</label>
-<input type="text" name="pesquisa" id="pesquisa"/>
+<input type="text" name="pesquisa" id="pesquisa" />
+
+
+<div class="form-group">
+    <div class="col-md-offset-2 col-md-10">
+        <input type="submit" value="Proximo" class="btn btn-default" />
+    </div>
+</div>
 
 @section scripts{
+   
     <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
     <script src="~/Scripts/jquery-ui-1.12.1.js"></script>
     <script>
@@ -19,4 +27,15 @@
             });
         });
     </script>
-    }
+    <script>
+        $(function () {
+            $("#btnpesquisar").click(function () {
+                var url = @Url.Action("PesquisaCliente", "Clientes");
+                var pesquisado = $("#pesquisa").val();
+                var data = { pesquisado: pesquisado };
+                window.location="http://localhost:60000/Balcaos/Create"
+            });
+        });
+    </script>
+
+}

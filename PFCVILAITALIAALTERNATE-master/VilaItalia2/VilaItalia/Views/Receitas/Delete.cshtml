@@ -1,12 +1,10 @@
 ﻿@model VilaItalia.Models.Receita
-
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 @{
     ViewBag.Title = "Delete";
 }
-
 <h2>Delete</h2>
-
-<h3>Are you sure you want to delete this?</h3>
+<h3>Você tem certeza que gostaria de deletar?</h3>
 <div>
     <h4>Receita</h4>
     <hr />
@@ -14,30 +12,24 @@
         <dt>
             @Html.DisplayNameFor(model => model.Nome)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Nome)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.PrecoSugerido)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.PrecoSugerido)
         </dd>
-
         <dt>
             @Html.DisplayNameFor(model => model.PrecoFixo)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.PrecoFixo)
         </dd>
-
     </dl>
-
-    @using (Html.BeginForm()) {
+    @using (Html.BeginForm())
+    {
         @Html.AntiForgeryToken()
 
         <div class="form-actions no-color">
@@ -46,3 +38,17 @@
         </div>
     }
 </div>
+@Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
+
+@Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>
+

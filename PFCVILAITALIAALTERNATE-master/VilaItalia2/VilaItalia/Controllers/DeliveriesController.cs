@@ -41,6 +41,8 @@ namespace VilaItalia.Controllers
         {
             ViewBag.ClienteId = new SelectList(db.Clientes, "ClienteId", "Nome");
             ViewBag.MotoboyId = new SelectList(db.Motoboys, "MotoboyId", "Nome");
+            ViewBag.ProdutosId = new SelectList(db.Produtoes, "ProdutoId", "Nome");
+            ViewBag.ReceitasId = new SelectList(db.Receitas, "ReceitaId", "Nome");
             return View();
         }
 
@@ -49,19 +51,52 @@ namespace VilaItalia.Controllers
         // obter mais detalhes, consulte https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "DeliveryId,ClienteId,MotoboyId")] Delivery delivery)
+        public ActionResult Create([Bind(Include = "DeliveryId,ClienteId,MotoboyId")] Delivery delivery, Balcao balcao, string Tamanho1, List<int> ProdutosId, List<int> ReceitasId)
         {
-            if (ModelState.IsValid)
+            Pizza pizza = new Pizza();
+
+
+            pizza.Tamanho = Tamanho1;
+
+            db.Pizzas.Add(pizza);
+            db.SaveChanges();
+
+
+            foreach (int id in ReceitasId)
             {
-                db.Deliveries.Add(delivery);
-                db.SaveChanges();
-                return RedirectToAction("Index");
+                //cont += 1;
+                Receita receita = db.Receitas.Find(id);
+                delivery.ValorTotal += receita.PrecoFixo;
+                pizza.Sabores.Add(receita);
+
             }
 
-            ViewBag.ClienteId = new SelectList(db.Clientes, "ClienteId", "Nome", delivery.ClienteId);
-            ViewBag.MotoboyId = new SelectList(db.Motoboys, "MotoboyId", "Nome", delivery.MotoboyId);
-            return View(delivery);
+            if (ProdutosId != null)
+            {
+                foreach (int id in ProdutosId)
+                {
+                    Produto produto = db.Produtoes.Find(id);
+                    delivery.ValorTotal += produto.PrecoVenda;
+                    delivery.Produtos.Add(produto);
+                }
+            }
+            else
+            {
+                delivery.Produtos = null;
+            }
+            delivery.ValorAtual = delivery.ValorTotal;
+            //db.Pizzas.Add(pizza);
+            db.Entry(pizza).State = EntityState.Modified;
+            db.Deliveries.Add(delivery);
+            db.SaveChanges();
+            return RedirectToAction("Create", "Pagamentos");
+
+
+
+     
+
         }
+   
 
         // GET: Deliveries/Edit/5
         public ActionResult Edit(int? id)

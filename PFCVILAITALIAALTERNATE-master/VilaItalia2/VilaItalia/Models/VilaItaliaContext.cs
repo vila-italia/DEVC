@@ -48,5 +48,7 @@ namespace VilaItalia.Models
         public System.Data.Entity.DbSet<VilaItalia.Models.PagamentoCartaoDebito> PagamentoCartaoDebitoes { get; set; }
 
         public System.Data.Entity.DbSet<VilaItalia.Models.PagamentoDinheiro> PagamentoDinheiroes { get; set; }
+
+        public System.Data.Entity.DbSet<VilaItalia.Models.MesaAdicionada> MesaAdicionadas { get; set; }
     }
 }

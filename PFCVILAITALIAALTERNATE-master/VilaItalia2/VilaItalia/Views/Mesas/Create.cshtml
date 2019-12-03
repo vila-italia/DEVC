@@ -1,19 +1,19 @@
 ﻿@model VilaItalia.Models.Mesa
-
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 @{
     ViewBag.Title = "Create";
 }
-
 <h2>Create</h2>
 
-
-@using (Html.BeginForm()) 
+@using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
-    
+
     <div class="form-horizontal">
-        <h4>Mesa</h4>
         <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         <div class="form-group">
             @Html.LabelFor(model => model.ClienteId, "ClienteId", htmlAttributes: new { @class = "control-label col-md-2" })
@@ -22,19 +22,67 @@
                 @Html.ValidationMessageFor(model => model.ClienteId, "", new { @class = "text-danger" })
             </div>
         </div>
-
+        @* @Html.BeginCollectionItem("Receitas"){*@
+        <div class="container">
+            <form class="form-inline">
+                <div class="row">
+                    <div class="col-lg-offset-2">
+                        <p><strong>Produtos</strong></p>
+                        @Html.DropDownList("ProdutosId", (MultiSelectList)ViewBag.ProdutosId, new { multiple = "multiple" })
+                    </div>
+                    <div class="col-lg-offset-2">
+                        <p><strong>Pizzas</strong></p>
+                        @Html.DropDownList("ReceitasId", (MultiSelectList)ViewBag.ReceitasId, new { multiple = "multiple" })
+                    </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.MesaAdicionadaId, "MesaAdicionadaId", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("MesaAdicionadaId", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.MesaAdicionadaId, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+            </form>
+            <div class="form-group">
+                <label class="control-label col-md-2"> Tamanho </label>
+                <div class="col-md-10">
+                    <input type="text" name="Tamanho1" class="form-control" />
+                </div>
+            </div>
+        </div>
+        @*}*@
+        @*<script>
+                $('#add-receita').click(function () {
+                    $.ajax({
+                        url: '@Url.Action("AdicionaReceita","Balcao")',
+                        type: 'POST',
+                        success: function (data) {
+                            $('#new-receita').append(data);
+                        }
+                    });
+                    return false;
+                });
+            </script>*@
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">
-                <input type="submit" value="Create" class="btn btn-default" />
+                <input type="submit" value="Comprar" class="btn btn-default" />
             </div>
         </div>
     </div>
 }
 
-<div>
-    @Html.ActionLink("Back to List", "Index")
-</div>
+@Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
 
-@section Scripts {
-    @Scripts.Render("~/bundles/jqueryval")
+@Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>
+/jqueryval")
 }

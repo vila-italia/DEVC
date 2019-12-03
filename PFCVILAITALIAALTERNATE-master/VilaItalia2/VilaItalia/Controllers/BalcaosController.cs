@@ -127,7 +127,7 @@ namespace VilaItalia.Controllers
         // obter mais detalhes, consulte https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "BalcaoId,ClienteId")] Balcao balcao,string Tamanho1,List<int>ProdutosId,List<int>ReceitasId)
+        public ActionResult Create([Bind(Include = "BalcaoId,ClienteId")] Balcao balcao,string Tamanho1,List<int>ProdutosId,List<int>ReceitasId,Cliente pesquisado)
         {
             //int cont = 0;
             Pizza pizza = new Pizza();

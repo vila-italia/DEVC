@@ -1975,3 +1975,7 @@ C:\Users\bruno\Downloads\DEVC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItal
 C:\Users\bruno\Downloads\DEVC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.csproj.CopyComplete
 C:\Users\bruno\Downloads\DEVC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.dll
 C:\Users\bruno\Downloads\DEVC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.pdb
+C:\Users\bruno\Documents\Bruno_Git\DEVC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Addmesa.resources
+C:\Users\bruno\Documents\Bruno_Git\DEVC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Addmesa2.resources
+C:\Users\bruno\Documents\Bruno_Git\DEVC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Addmesa3.resources
+C:\Users\bruno\Documents\Bruno_Git\DEVC\PFCVILAITALIAALTERNATE-master\VilaItalia2\VilaItalia\obj\Debug\VilaItalia.Migrations.Delivery.resources

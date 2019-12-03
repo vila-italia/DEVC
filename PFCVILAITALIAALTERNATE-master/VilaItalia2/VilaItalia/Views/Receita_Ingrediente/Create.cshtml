@@ -1,100 +1,47 @@
 ﻿@model VilaItalia.Models.Receita_Ingrediente
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 
-@{
-    ViewBag.Title = "Create";
-}
-
-<h2>Create</h2>
-<link href="~/Content/multi-select.css" media="screen" rel="stylesheet" type="text/css">
-
+@*<link href="~/Content/multi-select.css" media="screen" rel="stylesheet" type="text/css">*@
 
 @using (Html.BeginForm())
 {
     @Html.AntiForgeryToken()
+    <div class="container">
+        <div class="row">
+            <div class="form-horizontal">
+                <h4>Receita_Ingrediente</h4>
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.ReceitaId, "ReceitaId", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownList("ReceitaId", null, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.ReceitaId, "", new { @class = "text-danger" })
+                    </div>
+                </div>
 
-    <div class="form-horizontal">
-        <h4>Receita_Ingrediente</h4>
-        <hr />
-        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-
-        <div class="form-group">
-            @Html.LabelFor(model => model.ReceitaId, "ReceitaId", htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.DropDownList("ReceitaId", null, htmlAttributes: new { @class = "form-control" })
-                @Html.ValidationMessageFor(model => model.ReceitaId, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.IngredienteId, "IngredienteId", htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-5">
+                        @Html.DropDownList("IngredienteId", (MultiSelectList)ViewBag.IngredienteId, new { multiple = "multiple" })
+                        @Html.ValidationMessageFor(model => model.IngredienteId, "", new { @class = "text-danger" })
+                    </div>
+                </div>
             </div>
         </div>
 
-
-        <div class="form-group">
-            @Html.LabelFor(model => model.IngredienteId, "IngredienteId", htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.DropDownList("IngredienteId", (MultiSelectList)ViewBag.IngredienteId, new { multiple = "multiple" })
-                @Html.ValidationMessageFor(model => model.IngredienteId, "", new { @class = "text-danger" })
-            </div>
-        </div>
-        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
-        <link rel="stylesheet" type="text/css" href="~/Content/multi-select.css">
-
-        <!-- start -->
-        <div class="form-group">
-            <div class="col-md-10">
-                <select id='meulanchinho' multiple='multiple'>
-                    <option value='elem_1'>elem 1</option>
-                    <option value='elem_2'>elem 2</option>
-                    <option value='elem_3'>elem 3</option>
-                    <option value='elem_4'>elem 4</option>
-                    ...
-                    <option value='elem_100'>elem 100</option>
-                </select>
-            </div>
-        </div>
-
-        <!-- ends -->
-        <!-- jQuery -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
-        <!-- Bootstrap JavaScript -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/js/bootstrap.min.js"></script>
-        <script src="~/Scripts/jquery.multi-select.js"></script>
-        <script type="text/javascript">
-            // run pre selected options
-            $('#meulanchinho').multiSelect({
-                selectableHeader: "<input type='text' class='search-input' autocomplete='off' placeholder='try \"12\"'>",
-                selectionHeader: "<input type='text' class='search-input' autocomplete='off' placeholder='try \"4\"'>",
-                afterInit: function (ms) {
-                    var that = this,
-                        $selectableSearch = that.$selectableUl.prev(),
-                        $selectionSearch = that.$selectionUl.prev(),
-                        selectableSearchString = '#' + that.$container.attr('id') + ' .ms-elem-selectable:not(.ms-selected)',
-                        selectionSearchString = '#' + that.$container.attr('id') + ' .ms-elem-selection.ms-selected';
-
-                    that.qs1 = $selectableSearch.quicksearch(selectableSearchString)
-                        .on('keydown', function (e) {
-                            if (e.which === 40) {
-                                that.$selectableUl.focus();
-                                return false;
-                            }
-                        });
-
-                    that.qs2 = $selectionSearch.quicksearch(selectionSearchString)
-                        .on('keydown', function (e) {
-                            if (e.which == 40) {
-                                that.$selectionUl.focus();
-                                return false;
-                            }
-                        });
-                },
-                afterSelect: function () {
-                    this.qs1.cache();
-                    this.qs2.cache();
-                },
-                afterDeselect: function () {
-                    this.qs1.cache();
-                    this.qs2.cache();
-                }
-            });
-        </script>
-
+        @*<div class="form-group">
+                <div class="col-md-5">
+                    <select id='meulanchinho' multiple='multiple'>
+                        <option value='elem_1'>elem 1</option>
+                        <option value='elem_2'>elem 2</option>
+                        <option value='elem_3'>elem 3</option>
+                        <option value='elem_4'>elem 4</option>
+                        ...
+                        <option value='elem_100'>elem 100</option>
+                    </select>
+                </div>
+            </div>*@
 
 
 
@@ -107,13 +54,65 @@
 
 }
 
+@Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
+
+@Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>
 
 
-<div>
-    @Html.ActionLink("Back to List", "Index")
-</div>
+@*<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="~/Content/multi-select.css">
+    <!-- start -->
+    <!-- ends -->
+    <!-- jQuery -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
+    <!-- Bootstrap JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha/js/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery.multi-select.js"></script>
+    <script type="text/javascript">
+        // run pre selected options
+        $('#meulanchinho').multiSelect({
+            selectableHeader: "<input type='text' class='search-input' autocomplete='off' placeholder='try \"12\"'>",
+            selectionHeader: "<input type='text' class='search-input' autocomplete='off' placeholder='try \"4\"'>",
+            afterInit: function (ms) {
+                var that = this,
+                    $selectableSearch = that.$selectableUl.prev(),
+                    $selectionSearch = that.$selectionUl.prev(),
+                    selectableSearchString = '#' + that.$container.attr('id') + ' .ms-elem-selectable:not(.ms-selected)',
+                    selectionSearchString = '#' + that.$container.attr('id') + ' .ms-elem-selection.ms-selected';
 
-@section Scripts {
-    @Scripts.Render("~/bundles/jqueryval")
+                that.qs1 = $selectableSearch.quicksearch(selectableSearchString)
+                    .on('keydown', function (e) {
+                        if (e.which === 40) {
+                            that.$selectableUl.focus();
+                            return false;
+                        }
+                    });
 
-}
+                that.qs2 = $selectionSearch.quicksearch(selectionSearchString)
+                    .on('keydown', function (e) {
+                        if (e.which == 40) {
+                            that.$selectionUl.focus();
+                            return false;
+                        }
+                    });
+            },
+            afterSelect: function () {
+                this.qs1.cache();
+                this.qs2.cache();
+            },
+            afterDeselect: function () {
+                this.qs1.cache();
+                this.qs2.cache();
+            }
+        });
+    </script>*@

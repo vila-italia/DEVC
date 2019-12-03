@@ -40,6 +40,10 @@ namespace VilaItalia.Controllers
         public ActionResult Create()
         {
             ViewBag.ClienteId = new SelectList(db.Clientes, "ClienteId", "Nome");
+            ViewBag.ProdutosId = new SelectList(db.Produtoes, "ProdutoId", "Nome");
+            ViewBag.ReceitasId = new SelectList(db.Receitas, "ReceitaId", "Nome");
+            ViewBag.MesaAdicionadaId = new SelectList(db.MesaAdicionadas.Where(x=> x.Disponibilidade == true), "MesaAdicionadaId", "Nome");
+            
             return View();
         }
 
@@ -48,18 +52,51 @@ namespace VilaItalia.Controllers
         // obter mais detalhes, consulte https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "MesaId,ClienteId")] Mesa mesa)
+        public ActionResult Create([Bind(Include = "MesaId,ClienteId,MesaAdicionadaId")] Mesa mesa,string Tamanho1, List<int> ProdutosId, List<int> ReceitasId)
         {
-            if (ModelState.IsValid)
+            Pizza pizza = new Pizza();
+
+
+            pizza.Tamanho = Tamanho1;
+
+            db.Pizzas.Add(pizza);
+            db.SaveChanges();
+            MesaAdicionada mesinha = db.MesaAdicionadas.Find(mesa.MesaAdicionadaId);
+            mesinha.Disponibilidade = false;
+            db.Entry(mesinha).State = EntityState.Modified;
+
+            foreach (int id in ReceitasId)
             {
-                db.Mesas.Add(mesa);
-                db.SaveChanges();
-                return RedirectToAction("Index");
+                //cont += 1;
+                Receita receita = db.Receitas.Find(id);
+                mesa.ValorTotal += receita.PrecoFixo;
+                pizza.Sabores.Add(receita);
+
             }
 
-            ViewBag.ClienteId = new SelectList(db.Clientes, "ClienteId", "Nome", mesa.ClienteId);
-            return View(mesa);
+            if (ProdutosId != null)
+            {
+                foreach (int id in ProdutosId)
+                {
+                    Produto produto = db.Produtoes.Find(id);
+                    mesa.ValorTotal += produto.PrecoVenda;
+                    mesa.Produtos.Add(produto);
+                }
+            }
+            else
+            {
+                mesa.Produtos = null;
+            }
+            mesa.ValorAtual = mesa.ValorTotal;
+         
+            //db.Pizzas.Add(pizza);
+            db.Entry(pizza).State = EntityState.Modified;
+            db.Mesas.Add(mesa);
+            db.SaveChanges();
+            return RedirectToAction("TelaInicial", "Balcaos");
         }
+    
+    
 
         // GET: Mesas/Edit/5
         public ActionResult Edit(int? id)

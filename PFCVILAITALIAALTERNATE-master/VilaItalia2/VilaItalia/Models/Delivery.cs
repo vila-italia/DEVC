@@ -15,6 +15,11 @@ namespace VilaItalia.Models
         public virtual Motoboy Motoboy { get; set; }
         public virtual ICollection<Produto> Produtos { get; set; }
         public double ValorTotal { get; set; }
+        public double ValorAtual { get; set; }
         public double ValorPago { get; set; }
+        public Delivery()
+        {
+            Produtos = new List<Produto>();
+        }
     }
 }

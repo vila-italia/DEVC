@@ -1,11 +1,9 @@
 ﻿@model VilaItalia.Models.PagamentoCartaoDebito
-
+@Html.Partial("NavbarPartialView") @*Redenriza a NavBar, localizado em Shared/NavbarPartialView*@
 @{
     ViewBag.Title = "Details";
 }
-
 <h2>Details</h2>
-
 <div>
     <h4>PagamentoCartaoDebito</h4>
     <hr />
@@ -13,14 +11,26 @@
         <dt>
             @Html.DisplayNameFor(model => model.Valor)
         </dt>
-
         <dd>
             @Html.DisplayFor(model => model.Valor)
         </dd>
-
     </dl>
 </div>
 <p>
     @Html.ActionLink("Edit", "Edit", new { id = Model.PagamentoCartaoDebitoId }) |
     @Html.ActionLink("Back to List", "Index")
 </p>
+
+@Html.Partial("FooterPartialView") @*Redenriza a footer, localizado em Shared/FooterPartialView*@
+
+@Html.Partial("LogoutModalPartialView")@*Redenriza a mensagem de logout, localizado em Shared/LogoutModalPartialView*@
+
+<!-- Bootstrap core JavaScript-->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Core plugin JavaScript-->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for all pages-->
+<script src="js/sb-admin-2.min.js"></script>
